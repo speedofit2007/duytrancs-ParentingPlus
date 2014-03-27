@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_id: 1
+  device: MyString
+  last_sync: 2014-02-08 20:41:24
+
+two:
+  user_id: 1
+  device: MyString
+  last_sync: 2014-02-08 20:41:24

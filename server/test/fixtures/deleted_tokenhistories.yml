@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  tokenhistory_id: 1
+  user_id: 1
+  client_id: MyString
+
+two:
+  tokenhistory_id: 1
+  user_id: 1
+  client_id: MyString

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  goodbehaviors_id: 1
+  user_id: 1
+  device_id: MyString
+
+two:
+  goodbehaviors_id: 1
+  user_id: 1
+  device_id: MyString

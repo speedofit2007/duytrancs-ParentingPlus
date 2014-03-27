@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  client_id: 1
+  date: 2014-03-01 17:27:21
+  begin_token: 1
+  notebooks_id: 1
+  notebooks_user_id: 1
+  notebooks_client_id: MyString
+  user_id: 1
+  device_id: MyString
+
+two:
+  client_id: 1
+  date: 2014-03-01 17:27:21
+  begin_token: 1
+  notebooks_id: 1
+  notebooks_user_id: 1
+  notebooks_client_id: MyString
+  user_id: 1
+  device_id: MyString

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  client_id: 1
+  badbh_id: MyString
+  badbh_user_id: 1
+  badbh_device_id: MyString
+  bhname: MyString
+  user_id: 1
+  device_id: MyString
+
+two:
+  client_id: 1
+  badbh_id: MyString
+  badbh_user_id: 1
+  badbh_device_id: MyString
+  bhname: MyString
+  user_id: 1
+  device_id: MyString

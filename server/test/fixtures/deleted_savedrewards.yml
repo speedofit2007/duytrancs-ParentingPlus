@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  savedreward_id: 1
+  user_id: 1
+  device_id: MyString
+
+two:
+  savedreward_id: 1
+  user_id: 1
+  device_id: MyString
